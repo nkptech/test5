@@ -8,8 +8,8 @@ env:
   PLATFORM_API_PREFIX: platform-api
   PROVIDER_ORG: api-connect-os-0
   INSECURE_SKIP_TLS_VERIFY: True
-  #API_FILES: APIfolder/api-with-examples.yaml
-  API_FILES: ibm-sample-order-api_2.0.0.yaml
+  API_FILES: APIfolder/api-with-examples.yaml
+  #API_FILES: ibm-sample-order-api_2.0.0.yaml
   #API_FOLDERS: APIfolder,APIfolderTwo
 
 jobs:
